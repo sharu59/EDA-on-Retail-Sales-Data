@@ -2,7 +2,10 @@
 In this project, you will work with a dataset containing information about retail sales. The goal is to perform exploratory data analysis (EDA) to uncover patterns, trends, and insights to help the retail business make informed decisions.
 
 Dataset 1 Link
+
 Dataset 2 Link
+
+
 Key Concepts and Challenges:
 1. Data Loading and Cleaning: Load the retail sales dataset.
 2. Descriptive Statistics: Calculate basic statistics (mean, median, mode, standard deviation).
